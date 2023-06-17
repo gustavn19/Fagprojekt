@@ -1,0 +1,264 @@
+c 1
+Comoros
+Eritrea
+c 2
+Solomon Islands
+Suriname
+Congo
+Côte d'Ivoire
+Viet Nam
+Central African Republic
+Lao People's Democratic Republic
+Sierra Leone
+Paraguay
+Cameroon
+Togo
+Democratic Republic of the Congo
+French Guiana (France)
+Zambia
+Indonesia
+Grenada
+Bhutan
+Saint Lucia
+Liberia
+Gabon
+Haiti
+Arunachal Pradesh (India)
+Jammu and Kashmir (India)
+Russian Federation
+Equatorial Guinea
+Guatemala
+Sri Lanka
+c 3
+Gambia
+United States of America
+India
+c 4
+Algeria
+Djibouti
+c 5
+Republic of Korea
+Puerto Rico (USA)
+c 6
+Argentina
+Mexico
+Morocco
+c 7
+South Africa
+Portugal
+c 8
+Latvia
+Singapore
+Republic of Moldova
+Thailand
+China, Macao SAR
+Cuba
+Taiwan Province of China
+El Salvador
+China
+c 9
+Guinea
+Madagascar
+c 10
+Myanmar
+Nicaragua
+c 11
+Maldives
+Pitcairn (UK)
+c 12
+Albania
+c 13
+Malaysia
+c 14
+Monaco
+Qatar
+United Arab Emirates
+Oman
+Libya
+French Polynesia (France)
+Saudi Arabia
+c 15
+Kenya
+Zanzibar (United Republic of Tanzania)
+Malawi
+c 16
+Andean Community
+Panama
+c 17
+Ukraine
+Jordan
+Georgia
+Tajikistan
+Iran (Islamic Republic of)
+Romania
+Mongolia
+Turkmenistan
+Azerbaijan
+Belarus
+Kazakhstan
+Kyrgyzstan
+Uzbekistan
+Armenia
+c 18
+Sudan
+Bangladesh
+United Republic of Tanzania
+Eswatini
+Benin
+Burkina Faso
+Burundi
+Cambodia
+Niger
+Nigeria
+Chad
+Uganda
+Zimbabwe
+Afghanistan
+Palestine
+Iraq
+Mali
+Ethiopia
+Rwanda
+Somalia
+Ghana
+Bolivia (Plurinational State of)
+South Sudan
+Senegal
+Tunisia
+c 19
+Japan
+Lebanon
+Democratic People's Republic of Korea
+Syrian Arab Republic
+c 20
+Seychelles
+Belize
+c 21
+Czechia
+Belgium
+Luxembourg
+Slovakia
+Bosnia and Herzegovina
+Türkiye
+Italy
+San Marino
+Andorra
+Guernsey (UK)
+MERCOSUR
+Cyprus
+Estonia
+Netherlands (Kingdom of the)
+Finland
+Slovenia
+France
+Egypt
+Sweden
+Germany
+Malta
+Gibraltar (UK)
+China, Hong Kong SAR
+Austria
+Greece
+Montenegro
+United Kingdom of Great Britain and Northern Ireland
+Poland
+Ireland
+c 22
+Switzerland
+Liechtenstein
+Canada
+c 23
+Israel
+Honduras
+Australia
+Croatia
+Nepal
+Peru
+Spain
+North Macedonia
+Bulgaria
+Venezuela (Bolivarian Republic of)
+Brazil
+Timor-Leste
+Angola
+Cabo Verde
+Mozambique
+Sao Tome and Principe
+Pakistan
+Serbia
+Denmark
+Hungary
+Colombia
+Costa Rica
+Madeira Islands (Portugal)
+Dominican Republic
+Ecuador
+Philippines
+c 24
+Antigua and Barbuda
+Barbados
+Botswana
+Bermuda (UK)
+Brunei Darussalam
+Dominica
+Montserrat (UK)
+Jamaica
+Vanuatu
+Guam (USA)
+Samoa
+Norfolk Island (Australia)
+Cayman Islands (UK)
+Lithuania
+Fiji
+Turks and Caicos Islands (UK)
+Bahamas
+Guyana
+Micronesia (Federated States of)
+Namibia
+American Samoa (USA)
+Trinidad and Tobago
+c 25
+Saint Helena, Ascension and Tristan da Cunha (UK)
+Saint Kitts and Nevis
+Saint Vincent and the Grenadines
+Mauritius
+c 26
+Isle of Man (UK)
+Papua New Guinea
+Bahrain
+Tonga
+Tuvalu
+British Virgin Islands (UK)
+Marshall Islands
+Nauru
+Niue (New Zealand)
+Cook Islands
+Greenland (Denmark)
+Guadeloupe (France)
+Martinique (France)
+Réunion (France)
+Uruguay
+Mayotte (France)
+Chile
+Tokelau (New Zealand)
+New Caledonia (France)
+Guinea-Bissau
+Iceland
+Yemen
+Jan Mayen (Norway)
+Mauritania
+Svalbard (Norway)
+Jersey  (UK)
+Kiribati
+Kuwait
+Northern Mariana Islands (USA)
+Aruba (Netherlands)
+Saint Pierre and Miquelon (France)
+European Union
+Faroe Islands (Denmark)
+New Zealand
+Netherlands Antilles (Netherlands)
+Norway
+Palau
+c 27
+Lesotho

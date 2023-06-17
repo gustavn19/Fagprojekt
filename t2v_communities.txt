@@ -1,0 +1,266 @@
+c 1
+Palestine
+Iraq
+c 2
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+c 3
+Taiwan Province of China
+China
+c 4
+Zanzibar (United Republic of Tanzania)
+Eritrea
+c 5
+Morocco
+c 6
+Democratic People's Republic of Korea
+United States of America
+c 7
+Honduras
+Mexico
+Nicaragua
+Peru
+Bolivia (Plurinational State of)
+Paraguay
+Colombia
+Venezuela (Bolivarian Republic of)
+Costa Rica
+Cuba
+Dominican Republic
+Ecuador
+El Salvador
+Guatemala
+c 8
+Lebanon
+Egypt
+Jordan
+Syrian Arab Republic
+c 9
+India
+Pakistan
+Arunachal Pradesh (India)
+Jammu and Kashmir (India)
+c 10
+Liberia
+Suriname
+Indonesia
+Philippines
+Comoros
+c 11
+Guinea-Bissau
+c 12
+Myanmar
+Yemen
+Iran (Islamic Republic of)
+c 13
+Saint Helena, Ascension and Tristan da Cunha (UK)
+Botswana
+Norfolk Island (Australia)
+c 14
+Seychelles
+Solomon Islands
+Papua New Guinea
+Thailand
+Tuvalu
+British Virgin Islands (UK)
+Sao Tome and Principe
+Niue (New Zealand)
+Nauru
+Japan
+Equatorial Guinea
+Cook Islands
+Kiribati
+Denmark
+Somalia
+Libya
+Aruba (Netherlands)
+Sweden
+Turks and Caicos Islands (UK)
+Maldives
+Faroe Islands (Denmark)
+Netherlands Antilles (Netherlands)
+Pitcairn (UK)
+Tokelau (New Zealand)
+Palau
+Iceland
+Saudi Arabia
+c 15
+Qatar
+Kuwait
+United Arab Emirates
+Bahrain
+Oman
+c 16
+Sudan
+Bangladesh
+United Republic of Tanzania
+Eswatini
+Nepal
+Zambia
+Lao People's Democratic Republic
+Sierra Leone
+Cambodia
+Gambia
+Nigeria
+Lesotho
+Uganda
+Zimbabwe
+Afghanistan
+Ethiopia
+Rwanda
+Ghana
+Malawi
+Namibia
+South Sudan
+c 17
+Albania
+Algeria
+Congo
+Benin
+Mauritania
+Côte d'Ivoire
+Central African Republic
+Burkina Faso
+Burundi
+Cameroon
+Togo
+Niger
+Chad
+Democratic Republic of the Congo
+Angola
+Timor-Leste
+Mozambique
+Madagascar
+Mali
+Djibouti
+Gabon
+Guinea
+Senegal
+Tunisia
+c 18
+French Guiana (France)
+Guadeloupe (France)
+Martinique (France)
+Réunion (France)
+New Caledonia (France)
+Mayotte (France)
+c 19
+Antigua and Barbuda
+Barbados
+Tonga
+Belize
+Bermuda (UK)
+Dominica
+Grenada
+Marshall Islands
+Montserrat (UK)
+Cayman Islands (UK)
+Guam (USA)
+Samoa
+Kenya
+Jamaica
+Vanuatu
+Northern Mariana Islands (USA)
+Fiji
+Bahamas
+Guyana
+Mauritius
+Micronesia (Federated States of)
+American Samoa (USA)
+Trinidad and Tobago
+c 20
+Jersey  (UK)
+French Polynesia (France)
+c 21
+Ukraine
+Republic of Moldova
+Lithuania
+Hungary
+Tajikistan
+Romania
+Mongolia
+Turkmenistan
+Azerbaijan
+Russian Federation
+Belarus
+Kazakhstan
+Kyrgyzstan
+Uzbekistan
+Armenia
+c 22
+Monaco
+Republic of Korea
+Viet Nam
+c 23
+Czechia
+Latvia
+Croatia
+Belgium
+Georgia
+North Macedonia
+Slovakia
+Luxembourg
+Bulgaria
+Bosnia and Herzegovina
+Türkiye
+Italy
+Portugal
+San Marino
+Andorra
+Guernsey (UK)
+Serbia
+Estonia
+Netherlands (Kingdom of the)
+Finland
+Slovenia
+Germany
+France
+Gibraltar (UK)
+Malta
+Greece
+Austria
+Montenegro
+United Kingdom of Great Britain and Northern Ireland
+Poland
+Ireland
+c 24
+Switzerland
+Liechtenstein
+Singapore
+Australia
+Canada
+Malaysia
+China, Hong Kong SAR
+c 25
+Brazil
+Brunei Darussalam
+Cabo Verde
+Sri Lanka
+c 26
+Bhutan
+Haiti
+c 27
+China, Macao SAR
+Madeira Islands (Portugal)
+Puerto Rico (USA)
+c 28
+Israel
+MERCOSUR
+Cyprus
+South Africa
+Panama
+Andean Community
+c 29
+Isle of Man (UK)
+Greenland (Denmark)
+Saint Pierre and Miquelon (France)
+European Union
+Jan Mayen (Norway)
+Uruguay
+Svalbard (Norway)
+Spain
+Argentina
+Chile
+New Zealand
+Norway
